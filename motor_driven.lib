@@ -1,0 +1,16 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# BTN7971B
+#
+DEF BTN7971B U 0 40 Y Y 1 F N
+F0 "U" 0 -200 60 H V C CNN
+F1 "BTN7971B" 50 550 60 H V C CNN
+F2 "" 0 0 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+S 200 -300 -400 500 0 1 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library
